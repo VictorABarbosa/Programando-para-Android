@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Callbacks</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_call_backs">Activity lifeycle</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="destroy">Destroy</string>
+</resources>
