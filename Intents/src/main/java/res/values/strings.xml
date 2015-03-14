@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_target">TargetActivity</string>
+    <string name="activity_target_button">Voltar</string>
+    <string name="explicit_intent_button">Explicit Intent</string>
+    <string name="implicit_intent_button">Implicit Intent</string>
+
+</resources>
