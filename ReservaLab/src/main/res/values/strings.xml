@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Reserva Laboratorio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="formulario">Formulario de reserva</string>
+    <string name="professor_hint">Nome do professor</string>
+    <string name="siape_hint">SIAPE</string>
+    <string name="email_hint">E-mail</string>
+    <string name="identificacao">Identificacao</string>
+    <string name="dados_reserva">Dados de reserva</string>
+    <string name="data_reserva">Data da reserva</string>
+    <string name="pick_date">Escolha uma Data</string>
+    <string name="horario_reserva">Horario da reserva</string>
+    <string name="pick_time">Escolha um Horario</string>
+    <string name="enviar_reserva">Enviar reserva</string>
+    <string name="yesForDatashow">Sim</string>
+    <string name="noForDatashow">Nao</string>
+    <string name="maybeForDatashow">Talvez</string>
+    <string name="selecione_lab">Selecione o laboratorio</string>
+    <string name="need_for_datashow">Vai precisar de Datashow?</string>
+    <string name="config_desejada_pc">Configurações desejadas dos computadores:</string>
+    <string name="android_studio_sdk">Android Studio + Android SDK</string>
+    <string name="java_sdk">Java SDK</string>
+    <string name="linux_os">Sistema Oper. Linux</string>
+    <string name="windows_os">Sistema Oper. Windows</string>
+    <string name="reserva_prioritaria">Reserva prioritaria?</string>
+    <string name="reserva_prioritaria_sim">Sim</string>
+    <string name="reserva_prioritaria_nao">Nao</string>
+    <string name="observacao">Observacao</string>
+
+    <string-array name="lab_names">
+        <item>LEC01</item>
+        <item>LEC02</item>
+        <item>LEC03</item>
+    </string-array>
+    
+</resources>
