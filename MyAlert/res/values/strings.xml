@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAlert</string>
+    <string name="alerta_mudanca_bateria">Alerta de Mudança de Bateria</string>
+    <string name="alerta_modo_aviao">Alerta de Modo de Voo</string>
+    <string name="alerta_carregador_conectado">Alerta de Carregador Conectado</string>
+    <string name="alerta_carregador_desconectado">Alerta de Carregador Desconectado</string>
+    <string name="quero_receber_notificacao">Quero receber notificação de: </string>
+    <string name="confirmar_notificacoes">Confirmar notificações</string>
+    <string name="title_activity_aguardar_evento_sistema">AguardarEventoSistema</string>
+    <string name="aguardando_intencao_sistema">Aguardando intenção do sistema</string>
+    <string name="voltar">Voltar</string>
+</resources>
