@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMail</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="escrever_email">Escrever email</string>
+    <string name="sair_mymail">Sair do MyMail</string>
+    <string name="title_activity_send_mail">SendMail</string>
+    <string name="hint_destinatario">Destinatario</string>
+    <string name="hint_assunto">Assunto</string>
+    <string name="enviar_email_button">Enviar e-mail</string>
+    <string name="cancelar_email_button">Cancelar</string>
+
+</resources>
