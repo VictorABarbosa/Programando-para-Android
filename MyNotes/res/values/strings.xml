@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Listar">Listar</string>
+    <string name="Editar">Editar</string>
+    <string name="Remover">Remover</string>
+    <string name="boas_vindas">Bem-Vindo ao aplicativo MyNotes.</string>
+    <string name="apresentacao"> Gerencie suas atividades</string>
+    <string name="title_activity_add_notes">AddNotes</string>
+
+    <string name="adicionar_ok">Ok</string>
+    <string name="adicionar_cancela">Cancelar</string>
+    <string name="deseja_confirmar_adicao">Deseja confirmar adição?</string>
+
+    <string name="editar_ok">Ok</string>
+    <string name="editar_cancela">Cancelar</string>
+    <string name="deseja_confirmar_edicao">Deseja realmente prosseguir com alteração?</string>
+
+    <string name="deletar_ok">Ok</string>
+    <string name="deletar_cancela">Cancelar</string>
+    <string name="deseja_confirmar_remocao">Deseja realmente excluir esta nota?</string>
+
+
+</resources>
